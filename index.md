@@ -2,36 +2,6 @@
 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About us
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pushkarraunak/pushkar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Comprising of a bunch of ardent robotics technocrats from the Indian Institute of Technology, Kharagpur working together to build autonomous soccer-playing robots, the Kharagpur Robosoccer Students' Group (KRSSG) marked its inception in August 2009 with participation in RoboCup @ India Challenge in the campus this event was the first of its kind in South East Asia and with this India joined the elite body of only 18 nations worldwide to have a league of their own. Since then it has always striven to breach its own limits. Buoyed by the developments in this field, it had been transformed into a research project under the collective guidance of professors from the departments of Computer Science and Engineering, Electrical Engineering and Mechanical Engineering .The research objective of the group is to build and study cooperative multi-agent systems in highly dynamic adversarial environments. Our Aim is to participate in two International events FIRA and RoboCup.
